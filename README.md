@@ -1,9 +1,14 @@
 # Hi there, I'm Ali! 👋
 
-I completed my university education in the field of software and have been working actively since 2016 as a web developer using PHP and JavaScript.
+I completed my university education in the field of software and have been working actively since 2016 as a developer.
+
+Feel comfortable with nodejs, php, go.
 
 ## Techstack
 
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
